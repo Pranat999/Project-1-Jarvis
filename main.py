@@ -5,6 +5,7 @@ import musicLibrary
 import requests
 
 #pip install pocketsphinx  (not needed)
+#pip install pocketsphinx  (not required)
 
 recognizer=sr.Recognizer()
 engine=pyttsx3.init() #initialises pyttsx3
