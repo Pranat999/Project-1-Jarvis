@@ -4,7 +4,7 @@ import pyttsx3
 import musicLibrary
 import requests
 
-#pip install pocketsphinx  (not needed as of now)
+#pip install pocketsphinx  (not needed)
 
 recognizer=sr.Recognizer()
 engine=pyttsx3.init() #initialises pyttsx3
